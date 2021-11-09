@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrainTrainer</string>
+    <string name="minusSign">-</string>
+    <string name="slashSign">/</string>
+    <string name="firstScore">0/0</string>
+    <string name="startAgain">Начать занова</string>
+</resources>
